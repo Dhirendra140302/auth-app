@@ -269,21 +269,3 @@ auth-app-boot-react/
 
 ---
 
-## 🧑‍💻 Author
-
-**Learn Code With Durgesh**  
-Founder — Substring Technologies Pvt. Ltd.  
-📺 [YouTube: LearnCodeWithDurgesh](https://www.youtube.com/@LearnCodeWithDurgesh)  
-🌐 [Website: substring.tech](https://learncodewithdurgesh.com)  
-📬 [Telegram: @learncodewithdurgesh](https://t.me/learncodewithdurgesh)
-
----
-
-## 🪪 License
-
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute it for learning and educational purposes.
-
----
-
-⭐ **If this project helped you, consider giving it a star!**
